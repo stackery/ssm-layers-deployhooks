@@ -1,0 +1,18 @@
+{
+  "name": "retrieveLayers",
+  "version": "1.0.0",
+  "main": "stackery.prebuild.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.490.0",
+    "js-yaml": "^3.13.1",
+    "yaml-cfn": "^0.2.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
