@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.490.0",
+    "aws-sdk": "^2.814.0",
     "js-yaml": "^3.13.1",
     "yaml-cfn": "^0.2.1"
   },
